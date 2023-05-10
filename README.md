@@ -1,2 +1,4 @@
 # pruebas
 Pruebas
+TEXTO
+DECLARACION
